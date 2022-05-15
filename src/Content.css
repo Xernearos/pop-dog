@@ -1,0 +1,12 @@
+.Content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    font-size: calc(6px + 2vmin);
+    padding-bottom: 2.5rem; 
+}
+
+.Content a{
+    color: aliceblue;
+}

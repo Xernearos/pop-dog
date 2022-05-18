@@ -7,6 +7,18 @@
     padding-bottom: 2.5rem; 
 }
 
-.Content a{
+.Button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+.Image{
+    padding: 80px;
+    height: 100%;
+}
+.Word{
     color: aliceblue;
 }
